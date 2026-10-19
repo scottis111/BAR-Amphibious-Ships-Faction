@@ -1,4 +1,5 @@
 [Uploading Instructions for Awesome BAR version.txt…]()
+This is a Beyond All Reason Mod that was vibe coded.
 
 Update relevant files from AI to be put in Beyond-All-Reason/data/games/BAR.sdd folder. Zip the latest BAR.sdd folder and give to my friends and family that want the latest vibe coded BAR version.
 
